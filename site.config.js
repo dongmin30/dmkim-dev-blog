@@ -6,8 +6,8 @@ const CONFIG = {
     role: "백엔드 개발자",
     bio: "백엔드 서비스 개발자로 AI 응용을 학습하고 있습니다.",
     email: "dongmin0355@gmail.com",
-    linkedin: "dongmin30",
-    github: "dmkim-ww",
+    linkedin: "dmkim-ww",
+    github: "dongmin30",
     instagram: "",
   },
   projects: [
