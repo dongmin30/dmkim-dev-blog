@@ -6,14 +6,14 @@ const CONFIG = {
     role: "백엔드 개발자",
     bio: "백엔드 서비스 개발자로 AI 응용을 학습하고 있습니다.",
     email: "dongmin0355@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "dongmin30",
+    github: "dmkim-ww",
     instagram: "",
   },
   projects: [
     {
       name: `dmkim-dev-blog`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/dongmin30/dmkim-dev-blog",
     },
   ],
   // blog setting (required)
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://dmkim-dev-blog.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
